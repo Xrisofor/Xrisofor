@@ -39,7 +39,7 @@
   <a href="https://renpy.org/">
     <img src="https://img.shields.io/badge/RenPy-important?style=for-the-badge&logo=renpy&logoColor=white" alt="RenPy Badge"/>
   </a>
-</div><br>
+</div>
 
 ---
 
