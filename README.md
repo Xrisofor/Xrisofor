@@ -16,9 +16,9 @@
 ---
 
 ### 👱‍♂️ About Me:
-<h5>- I like to develop games and programs in my free time, and I want to share them with everyone 😄</h5>
-<h5>- I like to learn something new and try to implement it 🤠</h5>
-<h5>- I have my own indie video game creation company 💰</h5><br>
+- I like to develop games and programs in my free time, and I want to share them with everyone 😄
+- I like to learn something new and try to implement it 🤠
+- I have my own indie video game creation company 💰<br>
 
 ---
 
