@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🧪 Xrisofor / Slayer of Bugs, Breaker of Builds</h1>
-  <p></p>I write code so good, even I don’t understand it later. And honestly? Kinda proud of that.</p>
+  <p>I don’t fix bugs. I relocate them creatively</p>
 </div>
 
 ###
