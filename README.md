@@ -21,8 +21,6 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
@@ -32,8 +30,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
-
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
