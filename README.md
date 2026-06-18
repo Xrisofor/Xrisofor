@@ -3,8 +3,6 @@
   <p>I don’t fix bugs. I relocate them creatively</p>
 </div>
 
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
